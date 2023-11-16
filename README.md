@@ -203,3 +203,33 @@ Municipio_SANTO ANDRE: 0.0006
 Municipio_SAO PAULO: 0.0150
 Municipio_SUZANO: 0.0046
 Municipio_TABOAO DA SERRA: 0.0005
+
+## Próximos Passos
+
+1. **Engenharia de Recursos Adicionais:**
+   - Identificar novas features que podem ser criadas a partir das existentes.
+   - Explorar transformações adicionais em variáveis existentes para capturar melhor os padrões nos dados.
+
+2. **Ajuste Fino de Hiperparâmetros:**
+   - Refinar ainda mais os hiperparâmetros do modelo escolhido (Random Forest) para obter um desempenho ainda melhor.
+   - Considerar mais valores para os hiperparâmetros existentes.
+
+3. **Inclusão de Mais Dados:**
+   - Se disponível, considerar a inclusão de mais dados para treinamento do modelo.
+   - Avaliar se há novas fontes de dados que podem enriquecer a capacidade preditiva do modelo.
+
+4. **Validação Cruzada Estratificada:**
+   - Considerar a utilização de validação cruzada estratificada para garantir uma representação proporcional das classes em cada fold, especialmente se houver desequilíbrio nas classes.
+
+5. **Tratamento Específico para Classes Desbalanceadas:**
+   - Experimentar técnicas específicas para lidar com classes desbalanceadas, como oversampling ou undersampling.
+
+
+6. **Implementação de Métricas de Negócios:**
+   - Integrar métricas específicas de negócios, para avaliar o impacto direto nas metas da operação.
+
+## Conclusão
+
+Este README fornece uma visão abrangente do projeto e dos passos realizados até o momento. Qualquer dúvida, sugestão ou feedback é bem-vindo.
+
+**Samantha Batisti**
