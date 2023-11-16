@@ -55,7 +55,7 @@ A imagem abaixo representa uma árvore de decisão do modelo, mostrando como o a
 
 Árvore de Decisão
 
-![Árvore de Decisão]((https://github.com/Sam-Batisti/mba-famesp-machine-learning/blob/main/Arvore_decis%C3%A3o.png))
+![Árvore de Decisão](https://github.com/Sam-Batisti/mba-famesp-machine-learning/blob/main/Arvore_decis%C3%A3o.png)
 
 
 ```python
