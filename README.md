@@ -1,7 +1,8 @@
 # mba-famesp-machine-learning
 Projeto de Machine Learning / MBA Famesp
 
-# Projeto de Previsão de Desligamentos na Operação de Atendimento, cliente LEROY
+# Projeto de Previsão de Desligamentos na Operação de Atendimento.
+- Após o projeto de Analytics onde resutou um PowerBi para acompanhamento do Turnover e dos analistas, foi solicitado um odelo que ajude a prever quais analistas estão mais propensos a pedir desligamento para que assim medidas preventivas possam ser tomadas pela empresa em questão.
 
 # Passos seguidos no projeto:
 
