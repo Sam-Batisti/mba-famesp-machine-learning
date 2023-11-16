@@ -48,14 +48,16 @@ O modelo Random Forest atribuiu importâncias diferentes às variáveis, indican
 
 ### Importância das Features:
 
-O modelo Random Forest atribuiu importâncias diferentes às variáveis, indicando quais características mais influenciam nas previsões. Abaixo estão as importâncias das features calculadas pelo modelo:
-
+O modelo Random Forest atribuiu importâncias diferentes às variáveis, indicando quais características mais influenciam nas previsões.
 Visualização da Árvore de Decisão:
 A imagem abaixo representa uma árvore de decisão do modelo, mostrando como o algoritmo toma decisões com base nas variáveis do conjunto de dados.
 
 Árvore de Decisão
 
 ![Árvore de Decisão](https://github.com/Sam-Batisti/mba-famesp-machine-learning/blob/main/Arvore_decis%C3%A3o.png)
+
+
+ Abaixo estão as importâncias das features calculadas pelo modelo:
 
 
 ```python
