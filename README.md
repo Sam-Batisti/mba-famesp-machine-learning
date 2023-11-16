@@ -44,14 +44,6 @@ Projeto de Machine Learning / MBA Famesp
 
 O modelo Random Forest atribuiu importâncias diferentes às variáveis, indicando quais características mais influenciam nas previsões. Abaixo estão as importâncias das features calculadas pelo modelo:
 
-```python
-feature_importances = best_rf_model.feature_importances_
-print("Importância das Features:")
-for feature, importance in zip(X_train.columns, feature_importances):
-    print(f"{feature}: {importance}")
-
-markdown
-Copy code
 ## Interpretação do Modelo
 
 ### Importância das Features:
