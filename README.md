@@ -37,11 +37,4 @@ Projeto de Machine Learning / MBA Famesp
 
 - Aplicação do modelo treinado para prever novos dados (base df_completo).
 
-## Próximos Passos e Melhorias:
-
-- **Engenharia de Recursos:**
-  - Considere adicionar informações adicionais que possam influenciar a probabilidade de desligamento.
-
-- **Otimização de Hiperparâmetros:**
-  - Expandir a busca de hiperparâmetros para valores mais amplos.
 
