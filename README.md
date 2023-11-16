@@ -36,6 +36,6 @@ Projeto de Machine Learning / MBA Famesp
 
 ## Previsão em Novos Dados:
 
-- Aplicação do modelo treinado para prever novos dados (base df_completo).
+- Aplicação do modelo treinado para prever novos dados (Data_previsões).
 
 
