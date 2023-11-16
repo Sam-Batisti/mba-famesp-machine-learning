@@ -204,6 +204,8 @@ Municipio_SAO PAULO: 0.0150
 Municipio_SUZANO: 0.0046
 Municipio_TABOAO DA SERRA: 0.0005
 
+```python
+
 ## Próximos Passos
 
 1. **Engenharia de Recursos Adicionais:**
