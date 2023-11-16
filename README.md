@@ -55,6 +55,8 @@ A imagem abaixo representa uma árvore de decisão do modelo, mostrando como o a
 
 Árvore de Decisão
 
+![Árvore de Decisão](caminho/para/imagem.png)
+
 
 ```python
 feature_importances = best_rf_model.feature_importances_
