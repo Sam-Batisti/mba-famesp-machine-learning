@@ -232,6 +232,6 @@ Municipio_TABOAO DA SERRA: 0.0005
 
 ## Conclusão
 
-Este README fornece uma visão abrangente do projeto e dos passos realizados até o momento. Qualquer dúvida, sugestão ou feedback é bem-vindo.
+Este README fornece uma visão abrangente do projeto e dos passos realizados até o momento. Uma base em excel com os analistas propensos ao tunover foi encaminhada para a operação apra que medidas preventivas possam ser adotadas. O modelo será aperfeiçoado confirme descritonos póximos passos. Qualquer dúvida, sugestão ou feedback é bem-vindo.
 
 **Samantha Batisti**
